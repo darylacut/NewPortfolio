@@ -308,3 +308,7 @@ footer {
   margin: 0 auto;
   text-align: center;
 }
+
+#profilePic {
+  border-radius: 8px;
+}
